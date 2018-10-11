@@ -1,0 +1,179 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    # about:        True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # education:    True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name:           Halim Tuhu Prasetyo
+    tagline:        Web Developer<br>Fullstack Developer
+    avatar:         me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email:          halimtuhuprasetyo@gmail.com
+    phone:          "+62 822 4507 2651"
+    website:        halimtuhu66.github.io #do not add http://
+    linkedin:       halimtuhu
+    github:         halimtuhu66
+    gitlab:         halimtuhu
+    bitbucket:
+    twitter:        '@halimtuhu'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom:      Bahasa
+        level:      Native
+
+      - idiom:      English
+        level:      Professional
+
+    interests:
+      - item:       Coding
+        link:
+
+      - item:       Design
+        link:
+
+      - item:       Music
+        link:
+
+      - item:       Photograph
+        link:
+
+career-profile:
+    title:          Career Profile
+    summary:        |
+      I'm a Web Developer that focus on Back-End Development. Currently use
+      Laravel as php framework. I'm also on Front-End Development and Vue.js
+      user. I've lot experiences on web development starting when I'm on
+      collage until now. A lot of my project using laravel and thats make me
+      have a great best practice using laravel.
+
+education:
+    - degree:       Universitas Negeri Malang
+      university:   Malang, Jawa Timur, Indonesia
+      time:         2014 - 2019
+      details:      |
+        Studying Education of Information Engineering. Joining Internship on
+        Office of International Affairs as Web Developer and Pusat Teknologi
+        dan Informasi as Research and Development Division.
+
+    - degree:       SMA Negeri 1 Nunukan
+      university:   Nunukan, Kalimantan Utara, Indonesia
+      time:         2014 - 2011
+      details:      |
+        Learning all materials for highschool especially on Science. Joining
+        KIR (Karya Ilmiah Remaja) club, Computer blub, Vocal Group club.
+
+    - degree:       SMP Negeri 1 Nunukan
+      university:   Nunukan, Kalimantan Utara, Indonesia
+      time:         2008 - 2011
+      details:      |
+        Learning all materials for middleschool. Joining KIR (Karya Ilmiah
+        Remaja) club, English club, Taekwondo club.
+
+experiences:
+    - role:         Back-End Engineer
+      time:         2018 - Present
+      company:      PT. DOT Indonesia
+      details:      |
+        Doing all back-end matters such as developing Rest Api, building database
+        schema based on analist result, developing full function of web aplicaiton,
+        etc. Using PHP languanges with Laravel Framework for programming languange
+        and some DBMS such as MySQL, SQL Server, PostgreSQL, etc for database.
+
+    - role:         Web Developer
+      time:         2017
+      company:      Failla Coorporation
+      details:      |
+        Developing web application from scratch such as gethering requirement,
+        disigning architectur, arrange web layouts, writing code and testing.
+
+    - role:         Research and Development Division
+      time:         2017
+      company:      Pusat Teknologi dan Informasi Universitas Negeri Malang
+      details:      |
+        Doing reserach about needs and developing applications to help all
+        metters in univeristy such as administration, collecting data, security,
+        etc.
+    - role:         Information System Division
+      time:         2016 - 2017
+      company:      Office of International Affairs Universitas Negeri Malang
+      details:      |
+        Managing all Information System on office such as Official Website
+        adminstration, SIHI (Sistem Informasi Hubungan Internasional) administration,
+        etc. Developing new system to help office matters and building web pages for
+        office's events publications.
+
+projects:
+    title:          Portofolios
+    intro:          >
+      All projects including finished projects and running projects.
+
+    assignments:
+      - title:      ETAPAS (development)
+        link:       "https://etapas.id/"
+        tagline:    "A B2B system for waste transaction between company in Indonesia"
+
+      - title:      E-Service
+        link:       "http://sandbox.dot.co.id/eservice/"
+        tagline:    "A system for requiring services between departements in Pupuk Kalimantan Timur factory"
+
+      - title:      SIMGEPREK
+        link:       "http://simgeprek.blitarkota.go.id/"
+        tagline:    "A system for managing selection of accomplished and dedicated teachers and teaching staff in Blitar city"
+
+      - title:      SIHI
+        link:       "https://sihi.um.ac.id/"
+        tagline:    "A system for reporting internasional events and relatinships in Universitas Negeri Malang"
+
+      - title:      UM iCamp Page
+        link:       "http://oia.um.ac.id/umicamp/"
+        tagline:    "A pages for publishing international events named UM iCamp in Universitas Negeri Malang"
+
+      - title:      KNB at Universitas Negeri Malang
+        link:       "http://oia.um.ac.id/knb/"
+        tagline:    "A pages for publishing KNB (Kemitraan Negera Berkembang) at Universitas Negeri Malang"
+
+# publications:
+#     title:          Publications
+#     intro:          |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#
+#     papers:
+#       - title:      The Art of Computer Programming
+#         authors:    Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+skills:
+    title:          Skills &amp; Proficiency
+
+    toolset:
+      - name:       PHP & Laravel
+        level:      95%
+
+      - name:       SQL (MySQL, SQL Server, PostgreSQL, etc)
+        level:      90%
+
+      - name:       HTML5 & CSS
+        level:      90%
+
+      - name:       Javascript & Vue.js
+        level:      85%
+
+      - name:       Graphic Design (CorelDraw, Photoshop, Adobe Illustrator, etc)
+        level:      80%
+
+      - name:       Audio Editor (Audacity, Adobe Audition, Cubase5, etc)
+        level:      75%
+
+      - name:       Video Editor (Vegas Pro, Adobe Premier, Adobe Aftereffect, etc)
+        level:      70%
+
+footer:             >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
